@@ -8,9 +8,9 @@
   <img src="https://skillicons.dev/icons?i=vite&theme=dark"> 
   <img src="https://skillicons.dev/icons?i=py&theme=dark"> 
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark"> 
-  <img src="https://cdn.simpleicons.org/celery/37814A" width="52" height="52"> 
+  <img src="https://cdn.simpleicons.org/celery/37814A" width="48" height="48"> 
   <img src="https://skillicons.dev/icons?i=docker&theme=dark"> 
   <img src="https://skillicons.dev/icons?i=nginx&theme=dark"> 
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="52" height="52">
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48">
   <img src="https://skillicons.dev/icons?i=redis&theme=dark"> 
 </div>
