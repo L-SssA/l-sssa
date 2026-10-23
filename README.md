@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**L-SssA/l-sssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 技术栈 - Skills
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"> 
+  <img src="https://skillicons.dev/icons?i=vue&theme=dark"> 
+  <img src="https://skillicons.dev/icons?i=pinia&theme=dark"> 
+  <img src="https://skillicons.dev/icons?i=vite&theme=dark"> 
+  <img src="https://skillicons.dev/icons?i=py&theme=dark"> 
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark"> 
+  <img src="https://cdn.simpleicons.org/celery/37814A" width="52" height="52"> 
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark"> 
+  <img src="https://skillicons.dev/icons?i=nginx&theme=dark"> 
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="52" height="52">
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark"> 
+</div>
